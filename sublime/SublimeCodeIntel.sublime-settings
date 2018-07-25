@@ -1,0 +1,10 @@
+{
+  "Python": {
+    "python": "/home/saga/anaconda3/bin/python",
+    "pythonExtraPaths": []
+  },
+  "Python3": {
+    "python": "/home/saga/anaconda3/bin/python3",
+    "pythonExtraPaths": []
+  }
+}

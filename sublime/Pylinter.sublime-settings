@@ -1,0 +1,6 @@
+{
+  "pylint_path": "/home/saga/anaconda3/bin/pylint",
+  "use_icons": true,
+  "run_on_save": true,
+  "message_stay": true
+}

@@ -1,0 +1,7 @@
+{
+  "anaconda_linting": false,
+  "auto_formatting": true,
+  "suppress_word_completions": true,
+  "suppress_explicit_completions": true,
+  "complete_parameters": false
+}
